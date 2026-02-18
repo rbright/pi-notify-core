@@ -80,4 +80,4 @@ Automated publish is available via GitHub Actions (`.github/workflows/publish.ym
 - tag pushes matching `v*`
 
 Required repository secret:
-- `NPM_TOKEN` (npm automation token with publish permission)
+- `NPM_TOKEN` (npm token with publish permission)
