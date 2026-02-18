@@ -7,6 +7,6 @@ export {
   type MaybePromise,
   type MessageEndLikeEvent,
   type TurnCompletionTracker,
-} from './completion';
+} from './completion.js';
 
-export { sanitizeNotificationText, truncateText } from './sanitize';
+export { sanitizeNotificationText, truncateText } from './sanitize.js';

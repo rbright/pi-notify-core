@@ -1,6 +1,6 @@
 {
   "name": "@rbright/pi-notify-core",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Shared notification primitives for Pi extensions.",
   "type": "module",
   "license": "MIT",
